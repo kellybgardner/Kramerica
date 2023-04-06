@@ -248,8 +248,10 @@ button {
 }
 
 .image_1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width: 100%;
-    float: left;
 }
 
 .logo {
